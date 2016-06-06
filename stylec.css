@@ -1,0 +1,16 @@
+*{
+ font-family: 'Lato', sans-serif;}
+ .background {
+    background: url("http://www.hdwallpapers.in/walls/spectrum_of_the_sky_hdtv_1080p-HD.jpg") no-repeat scroll center center / cover rgba(0, 0, 0, 0);
+    height: 40%;
+    position: relative;
+    width: 100%;
+}
+.background2 {
+    background: url("http://www.desktopwallpaperhd.net/wallpapers/2/a/spring-wallpapers-nature-background-22506.jpg") no-repeat scroll center center / cover rgba(0, 0, 0, 0);
+    height: 40%;
+    position: relative;
+    width: 100%;
+}
+.font3{
+  font color: #003366}
